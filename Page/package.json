@@ -1,0 +1,21 @@
+{
+  "name": "1st_app",
+  "version": "1.0.0",
+  "description": "My first personal web page in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Chaves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.1",
+    "nodemailer": "^4.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KvCG/NodeTestApp.git"
+  }
+}
